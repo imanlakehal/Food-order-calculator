@@ -1,8 +1,6 @@
-# Food-order-calculator
-A calculator that adds up your total based on the food (Pizza/Sandwich) and toppings you choose.
-# Pre-work - *Food Order Calculator*
+# *Food Order Calculator*
 
-**Name of your app** A calculator that adds up your total based on the food (Pizza/Sandwich) and toppings you choose.
+**Food Order Calculator** A calculator that adds up your total based on the food (Pizza/Sandwich) and toppings you choose.
 
 Submitted by: **Iman**
 
